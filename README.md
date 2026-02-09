@@ -1,7 +1,9 @@
 # HTML-CSS-Mini-Project
-<img width="1456" height="800" alt="Screenshot 2026-02-03 at 3 14 45 PM" src="https://github.com/user-attachments/assets/03613ac8-c665-4b47-b9c1-6b09ad818006" />
-<img width="1454" height="713" alt="Screenshot 2026-02-03 at 3 15 15 PM" src="https://github.com/user-attachments/assets/08a1597b-b7b2-4f2b-a590-bff0acf60c73" />
-<img width="1449" height="624" alt="Screenshot 2026-02-03 at 3 16 26 PM" src="https://github.com/user-attachments/assets/bb66d764-a330-4d9d-ab9e-03d2c8b4cb55" />
-<img width="1453" height="576" alt="Screenshot 2026-02-03 at 3 16 45 PM" src="https://github.com/user-attachments/assets/714e4871-f505-4fa0-9764-1c22ed8ce0b7" />
-<img width="1451" height="409" alt="Screenshot 2026-02-03 at 3 17 09 PM" src="https://github.com/user-attachments/assets/fba80ae4-035a-420c-acd2-80c31b84a819" />
-<img width="1453" height="172" alt="Screenshot 2026-02-03 at 3 18 03 PM" src="https://github.com/user-attachments/assets/74eee0ff-78f0-44bd-8028-77ddf3946047" />
+<img width="1467" height="829" alt="Screenshot 2026-02-09 at 11 25 07 AM" src="https://github.com/user-attachments/assets/13ff2cfc-f72d-4156-86e3-99e8b9c756a4" />
+<img width="1470" height="713" alt="Screenshot 2026-02-09 at 11 25 34 AM" src="https://github.com/user-attachments/assets/c3bc5f15-502e-46c2-8a72-603ff354cddf" />
+<img width="1464" height="712" alt="Screenshot 2026-02-09 at 11 34 20 AM" src="https://github.com/user-attachments/assets/c0de555e-ce95-4bbe-ae32-174407e8a190" />
+<img width="1470" height="837" alt="Screenshot 2026-02-09 at 11 34 51 AM" src="https://github.com/user-attachments/assets/a92e7d0c-a014-4f19-a6fa-70b47e4ab61b" />
+
+<img width="1470" height="836" alt="Screenshot 2026-02-09 at 11 20 39 AM" src="https://github.com/user-attachments/assets/c6ad01fc-4036-4f8c-8f8d-b40ffe85991d" />
+<img width="1470" height="836" alt="Screenshot 2026-02-09 at 11 20 56 AM" src="https://github.com/user-attachments/assets/789783af-ea0e-472e-9c83-ba30d0976082" />
+<img width="1470" height="622" alt="Screenshot 2026-02-09 at 11 21 18 AM" src="https://github.com/user-attachments/assets/6ea5966a-a725-44ee-a78a-ae071e7c8f2d" />
